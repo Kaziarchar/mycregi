@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@100..900&display=swap');
+
+.sec2{
+height: 50px;
+}
+
+.sec1{
+    width: 150px;
+    height: 150px;
+    border: 7px solid green;
+    border-radius: 50%;
+}
+.row .car-pad{
+    padding-right: 0%;
+  }
+  
+.row .car-pad1{
+    padding: 0%;
+    border: 7px solid white;
+  }
+  
+.row .car-pad2{
+    padding-left: 0%;
+  }
+  .row #text-n{
+    font-family: "Noto Sans Bengali", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      font-size: 22px;
+      color: #2d862d;
+  }
+  
+body{
+    background-image: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+}
